@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">lesson_one</string>
+    <string name="lesson_six_set_min_filter">Min Filter</string>
+    <string name="lesson_six_set_mag_filter">Mag Filter</string>
+    <string name="lesson_six_set_min_filter_message">Set GL_TEXTURE_MIN_FILTER</string>
+    <string name="lesson_six_set_mag_filter_message">Set GL_TEXTURE_MAG_FILTER</string>
+    <string name="increase_cube">Increase cube</string>
+    <string name="decrease_cube">Decrease cube</string>
+    <string name="use_vbo">Use VBO</string>
+    <string name="use_stride">Use stride</string>
+    <string name="not_use_vbo">Not use Vbo</string>
+    <string name="not_use_stride">Not use stride</string>
+</resources>
