@@ -88,6 +88,7 @@ public class BufferUtils {
             returnData[i] = (short) data[i];
         }
         return returnData;
+        //// TODO: 30.01.2016  
     }
 
     public static int getDataSizeInByte(Model.ModelTypes type) {
